@@ -16,19 +16,4 @@ Library  Used  - ```JQuery```
 - The extension will now install on your chrome browser
   
   
-  
-## Some Visuals while working
-
-### Image showing the stats related to visited sites for the current day
-![](images/normal.JPG)
-  
-### Stats relating the overall time
-![](images/all.JPG)
-
-### List of websites visited by the user
-![](images/list.JPG)
-
-### Normal view of the extension working 
-![](images/desktop.JPG)
-
 
